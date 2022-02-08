@@ -1,0 +1,2 @@
+# Dragon Heist / Dungeon of the Mad Mage Notes
+Some notes on our DnD campaign. To be chronicled by up-and-coming writer, Serge Meridian, tutor, scholar, great mind, and humble resident of the City of Splendours.
