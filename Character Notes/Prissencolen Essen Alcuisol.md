@@ -1,4 +1,4 @@
 # Prissencolen Essen Alcuisol
-![[prissencolen.png]]
+![[../img/prissencolen.png]]
 
 Tom's character, a Half-Elf sorceror.

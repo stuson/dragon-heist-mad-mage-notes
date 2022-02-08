@@ -1,4 +1,4 @@
 # Serge Meridian
-![[serge.png]]
+![[../img/serge.png]]
 
 My player character, a Gnome Wizard.
