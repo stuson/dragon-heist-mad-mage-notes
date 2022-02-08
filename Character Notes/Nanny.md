@@ -1,2 +1,4 @@
 # Nanny
-Josh's character, a Fey Bard.
+![[nanny.png]]
+
+Josh's character, a Fairy Bard.
