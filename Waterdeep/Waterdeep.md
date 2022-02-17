@@ -1,10 +1,12 @@
-Tags:
+Tags: #location/city
 
 ---
 
 # Waterdeep
 
 As a long-time resident of Waterdeep, I will have pre-existing knowledge of most things a local would, maybe more due to my bookishness.
+
+## The Politics of Waterdeep
 
 - There are multiple Secret Lords, the total number and their identities unknown even to each other, but only one Open Lord. He is of similar power to the others, but is known publicly, and knows the Secret Lords.
 - Remember the three apocalyptic periods

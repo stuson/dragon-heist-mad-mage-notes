@@ -1,8 +1,8 @@
 ---
-Aliases: [ "#session" ]
+Aliases: [ "#location" ]
 ---
 
-# Sessions
+# Locations
 
 ```dataviewjs
 const tag = dv.current().file.aliases[0];

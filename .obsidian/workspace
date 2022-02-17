@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cecd28384d555c0c",
+        "id": "73394bc6cb38d9c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Notes/2022-02-08 - Session 1.md",
+            "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
             "mode": "preview",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character/player-character",
+                "query": "tag:#character/npc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Notes/2022-02-08 - Session 1.md",
+                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventure Notes/2022-02-08 - Session 1.md",
+                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventure Notes/2022-02-08 - Session 1.md"
+                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cecd28384d555c0c",
+  "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
-    "Adventure Notes/2022-02-08 - Session 1.md",
-    "Character Notes/Player Characters/Leon Margaster.md",
-    "Index/Characters.md",
+    "Character Notes/Non-Player Characters/Renaer Neverember.md",
+    "Character Notes/Non-Player Characters/Hyustus Staget.md",
+    "Character Notes/Non-Player Characters/Floon Blagmaar.md",
     "Character Notes/Non-Player Characters/Dagult Neverember.md",
-    "Adventure Notes/2022-02-17 - Session 4.",
-    "README.md",
-    "Waterdeep/Xanathar's Guild.md",
-    "Waterdeep/Waterdeep.md",
-    "Waterdeep/The Zhentarim.md",
-    "Waterdeep/The Time of Troubles.md"
+    "Index/Sessions.md",
+    "Index/Locations.md",
+    "Index/Characters.md",
+    "_templates/inline/taglist.md",
+    "_templates/pages/session.md",
+    "Character Notes/Non-Player Characters/character player-character.md"
   ]
 }
