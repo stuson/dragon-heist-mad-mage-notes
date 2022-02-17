@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "59a13fc6a99b7765",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecd28384d555c0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Adventure Notes/2022-02-08 - Session 1.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad8c126578924e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4b8958712f812e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ff789361a2d32d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6198eecbf106e47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#character/player-character",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "543afc12a16978a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa18396f8303f3b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d39ec5f87ca124",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adventure Notes/2022-02-08 - Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "68a5c0dd9ff2c509",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adventure Notes/2022-02-08 - Session 1.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b9b05aa4aee8c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "648a9215eba89470",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8309fa64eb534183",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adventure Notes/2022-02-08 - Session 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "cecd28384d555c0c",
+  "lastOpenFiles": [
+    "Adventure Notes/2022-02-08 - Session 1.md",
+    "Character Notes/Player Characters/Leon Margaster.md",
+    "Index/Characters.md",
+    "Character Notes/Non-Player Characters/Dagult Neverember.md",
+    "Adventure Notes/2022-02-17 - Session 4.",
+    "README.md",
+    "Waterdeep/Xanathar's Guild.md",
+    "Waterdeep/Waterdeep.md",
+    "Waterdeep/The Zhentarim.md",
+    "Waterdeep/The Time of Troubles.md"
+  ]
+}

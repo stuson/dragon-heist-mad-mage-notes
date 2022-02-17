@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "tabSize": 2,
+  "useTab": false,
+  "showFrontmatter": false,
+  "attachmentFolderPath": "_resources",
+  "newFileLocation": "current"
+}
