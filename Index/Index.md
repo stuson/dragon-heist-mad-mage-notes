@@ -1,11 +1,11 @@
 ---
-Aliases: [ "#session" ]
+Aliases: [ "#index" ]
 ---
 Tags: #index
 
 ---
 
-# Sessions
+# Index
 
 ```dataviewjs
 const tag = dv.current().file.aliases[0];

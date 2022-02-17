@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/pages/session.md",
+            "file": "Character Notes/Player Characters/Serge Meridian.md",
             "mode": "source",
             "backlinks": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character/npc",
+                "query": "tag:#faction",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/pages/session.md",
+                "file": "Character Notes/Player Characters/Serge Meridian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/pages/session.md",
+                "file": "Character Notes/Player Characters/Serge Meridian.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/pages/session.md"
+                "file": "Character Notes/Player Characters/Serge Meridian.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,12 +129,15 @@
   },
   "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
-    "_templates/pages/session.md",
-    "Waterdeep/The Spellplague.md",
-    "Adventure Notes/2022-02-17 - Session 3.md",
-    "Adventure Notes/2022-02-17 - Session 4.md",
+    "Character Notes/Player Characters/Serge Meridian.md",
+    "Character Notes/Player Characters/Prissencolen Essen Alcuisol.md",
+    "Character Notes/Player Characters/Nanny.md",
+    "Character Notes/Player Characters/Leon Margaster.md",
     "Adventure Notes/2022-02-08 - Session 1.md",
-    "_templates/inline/taglist.md",
-    "Adventure Notes/.md"
+    "Character Notes/Non-Player Characters/Hyustus Staget.md",
+    "Character Notes/Non-Player Characters/Floon Blagmaar.md",
+    "Adventure Notes/2022-02-15 - Session 2.md",
+    "Index/Factions.md",
+    "Factions/House Margaster.md"
   ]
 }

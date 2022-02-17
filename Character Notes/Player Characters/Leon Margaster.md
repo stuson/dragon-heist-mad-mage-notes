@@ -1,9 +1,6 @@
 ---
-aliases: [Leon]
----
-
-Tags: #character/player-character
-
+Aliases: [Leon]
+Tags: [ character/player-character ]
 ---
 
 # Leon Margaster
@@ -11,3 +8,12 @@ Tags: #character/player-character
 ![[leon.png]]
 
 Dan's player character, a Human Paladin.
+
+## Relationships
+
+- [[Nanny]] - nanny
+- [[Prissencolen Essen Alcuisol]] - friend
+- [[Serge Meridian]] - magic tutor
+
+---
+Tags: [[Characters|#character/player-character]]

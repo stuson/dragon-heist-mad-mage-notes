@@ -1,11 +1,11 @@
 ---
-Aliases: [ "#session" ]
+Aliases: [ "#faction/noble-house" ]
 ---
 Tags: #index
 
 ---
 
-# Sessions
+# Noble Houses
 
 ```dataviewjs
 const tag = dv.current().file.aliases[0];

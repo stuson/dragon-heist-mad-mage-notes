@@ -7,5 +7,6 @@
   "useTab": false,
   "showFrontmatter": false,
   "attachmentFolderPath": "_resources",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "spellcheck": true
 }

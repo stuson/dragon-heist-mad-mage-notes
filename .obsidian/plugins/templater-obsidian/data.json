@@ -17,6 +17,26 @@
     {
       "folder": "Adventure Notes",
       "template": "_templates/pages/session.md"
+    },
+    {
+      "folder": "Character Notes/Non-Player Characters",
+      "template": "_templates/pages/npc.md"
+    },
+    {
+      "folder": "Character Notes/Player Characters",
+      "template": "_templates/pages/player_character.md"
+    },
+    {
+      "folder": "/",
+      "template": "_templates/pages/base.md"
+    },
+    {
+      "folder": "_templates",
+      "template": ""
+    },
+    {
+      "folder": "Index",
+      "template": "_templates/pages/index.md"
     }
   ],
   "syntax_highlighting": true,

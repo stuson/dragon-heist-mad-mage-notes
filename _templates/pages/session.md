@@ -12,11 +12,11 @@ let fileName = `${tp.date.now()} - Session ${index}`
 await tp.file.move(`/Adventure Notes/${fileName}`); console.log(tp.file)
 -%>
 ---
-aliases: [Session <% index %>]
----
-
-tags: #session
-
+Aliases: [ Session <% index %> ]
+Tags: [ session ]
 ---
 
 # Session <% index %>
+
+---
+Tags: [[Sessions|#session]]

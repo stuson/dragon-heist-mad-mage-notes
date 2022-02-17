@@ -1,5 +1,3 @@
-# Taglist
-
 ```dataviewjs
 const tag = dv.current().file.aliases[0];
 const pages = dv.pages(tag + ' AND -"_templates"');

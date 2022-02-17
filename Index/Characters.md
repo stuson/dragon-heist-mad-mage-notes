@@ -1,5 +1,8 @@
 ---
-Aliases: [ "#character" ]
+Aliases: [ "#character", "#character/player-character", "#character/npc" ]
+---
+Tags: #index
+
 ---
 
 # Characters

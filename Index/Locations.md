@@ -1,6 +1,9 @@
 ---
 Aliases: [ "#location" ]
 ---
+Tags: #index
+
+---
 
 # Locations
 
