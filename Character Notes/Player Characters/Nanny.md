@@ -1,3 +1,7 @@
+---
+aliases: [Lorelei Mai, Lorelei]
+---
+
 Tags: #character/player-character
 
 ---

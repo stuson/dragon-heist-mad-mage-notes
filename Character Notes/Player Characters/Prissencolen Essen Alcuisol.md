@@ -1,4 +1,8 @@
-Tags: #character/player-character 
+---
+aliases: [Prissencolen, Colin]
+---
+
+Tags: #character/player-character
 
 ---
 

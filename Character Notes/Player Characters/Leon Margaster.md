@@ -1,3 +1,7 @@
+---
+aliases: [Leon]
+---
+
 Tags: #character/player-character
 
 ---
