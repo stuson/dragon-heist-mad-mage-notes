@@ -86,5 +86,7 @@
   },
   "lintOnSave": true,
   "displayChanged": true,
-  "foldersToIgnore": []
+  "foldersToIgnore": [
+    "_templates"
+  ]
 }

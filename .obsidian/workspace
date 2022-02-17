@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
-            "mode": "preview",
+            "file": "_templates/pages/session.md",
+            "mode": "source",
             "backlinks": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
+                "file": "_templates/pages/session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md",
+                "file": "_templates/pages/session.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Notes/Non-Player Characters/Renaer Neverember.md"
+                "file": "_templates/pages/session.md"
               }
             }
           }
@@ -130,15 +130,12 @@
   },
   "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
-    "Character Notes/Non-Player Characters/Renaer Neverember.md",
-    "Character Notes/Non-Player Characters/Hyustus Staget.md",
-    "Character Notes/Non-Player Characters/Floon Blagmaar.md",
-    "Character Notes/Non-Player Characters/Dagult Neverember.md",
-    "Index/Sessions.md",
-    "Index/Locations.md",
-    "Index/Characters.md",
-    "_templates/inline/taglist.md",
     "_templates/pages/session.md",
-    "Character Notes/Non-Player Characters/character player-character.md"
+    "Waterdeep/The Spellplague.md",
+    "Adventure Notes/2022-02-17 - Session 3.md",
+    "Adventure Notes/2022-02-17 - Session 4.md",
+    "Adventure Notes/2022-02-08 - Session 1.md",
+    "_templates/inline/taglist.md",
+    "Adventure Notes/.md"
   ]
 }

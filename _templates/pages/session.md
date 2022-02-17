@@ -1,5 +1,3 @@
-<%* await tp.file.move("/Adventure Notes/") %>
-
 <%*
 let index = tp.config.target_file.parent.children
   .filter(page => page.name.includes("Session"))
@@ -8,13 +6,17 @@ let index = tp.config.target_file.parent.children
     console.log(curr.basename, ending);
     return (ending >= acc && !isNaN(ending)) ? Number(ending) + 1 : acc;
   }, 1);
-console.log(index);
-%>
-
-<%* await tp.file.rename(`${tp.date.now()} - Session ${index}`); %>
+-%>
+<%*
+let fileName = `${tp.date.now()} - Session ${index}`
+await tp.file.move(`/Adventure Notes/${fileName}`); console.log(tp.file)
+-%>
+---
+aliases: [Session <% index %>]
+---
 
 tags: #session
 
 ---
 
-# Session <% tp.file.name %>
+# Session <% index %>
