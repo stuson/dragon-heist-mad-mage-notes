@@ -1,6 +1,11 @@
+Tags: #character/npc
+
+---
+
 # Floon Blagmaar
 
--   Handsome male
--   Mid 30s
--   Wavy red hair
--   Not the brightest
+- The missing person Volo asked us to serch for
+- Handsome male
+- Mid 30s
+- Wavy red hair
+- Not the brightest

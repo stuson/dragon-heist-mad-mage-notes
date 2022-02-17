@@ -1,5 +1,9 @@
+Tags: #character/player-character
+
+---
+
 # Leon Margaster
 
-![Leon](../../img/leon.png)
+![[leon.png]]
 
 Dan's player character, a Human Paladin.

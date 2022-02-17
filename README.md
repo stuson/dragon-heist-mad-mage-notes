@@ -2,7 +2,7 @@
 
 Some notes on our DnD campaign. To be chronicled by up-and-coming writer, Serge Meridian, tutor, scholar, great mind, and humble resident of the City of Splendours.
 
-You might be wondering if these notes are written in-character or as reference for the players. The answer is yes... and no... to both.
+You might be wondering if these notes are written in-character or as reference for the players. The answer is yes… and no… to both.
 
 ## Usage
 

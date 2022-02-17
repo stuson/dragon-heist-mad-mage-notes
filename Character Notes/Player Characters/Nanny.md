@@ -1,5 +1,9 @@
+Tags: #character/player-character
+
+---
+
 # Nanny
 
-![Nanny](../../img/nanny.png)
+![[nanny.png]]
 
 Josh's character, a Fairy Bard.

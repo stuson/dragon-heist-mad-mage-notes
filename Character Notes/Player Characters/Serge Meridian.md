@@ -1,5 +1,9 @@
+Tags: #character/player-character
+
+---
+
 # Serge Meridian
 
-![Serge](../../img/serge.png)
+![[serge.png]]
 
 My player character, a Gnome Wizard.

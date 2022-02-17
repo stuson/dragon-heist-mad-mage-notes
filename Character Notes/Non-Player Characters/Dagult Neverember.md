@@ -1,3 +1,7 @@
+Tags: #character/npc
+
+---
+
 # Dagult Neverember
 
--   The previous Open Lord
+- The previous Open Lord
