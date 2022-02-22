@@ -1,5 +1,5 @@
 ---
-Aliases: [Serge]
+Aliases: [ Serge ]
 Tags: [ character/player-character ]
 ---
 
