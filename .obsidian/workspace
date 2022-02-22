@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Character Notes/Player Characters/Serge Meridian.md",
+            "file": "Adventure Notes/2022-02-22 - Session 3.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Notes/Player Characters/Serge Meridian.md",
+                "file": "Adventure Notes/2022-02-22 - Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Notes/Player Characters/Serge Meridian.md",
+                "file": "Adventure Notes/2022-02-22 - Session 3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,11 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Notes/Player Characters/Serge Meridian.md"
+                "file": "Adventure Notes/2022-02-22 - Session 3.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,15 +130,15 @@
   },
   "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
-    "Character Notes/Player Characters/Serge Meridian.md",
-    "Character Notes/Player Characters/Prissencolen Essen Alcuisol.md",
-    "Character Notes/Player Characters/Nanny.md",
-    "Character Notes/Player Characters/Leon Margaster.md",
-    "Adventure Notes/2022-02-08 - Session 1.md",
+    "Adventure Notes/2022-02-22 - Session 3.md",
+    "_resources/Pasted image 20220222212616.png",
+    "_resources/krenz_map.png",
+    "_resources/gazer_corpse.png",
+    "Character Notes/Player Characters/Whitelaw.md",
     "Character Notes/Non-Player Characters/Hyustus Staget.md",
     "Character Notes/Non-Player Characters/Floon Blagmaar.md",
-    "Adventure Notes/2022-02-15 - Session 2.md",
-    "Index/Factions.md",
-    "Factions/House Margaster.md"
+    "Character Notes/Non-Player Characters/Dagult Neverember.md",
+    "Character Notes/Non-Player Characters/Krenz.md",
+    "Adventure Notes/2022-02-15 - Session 2.md"
   ]
 }
