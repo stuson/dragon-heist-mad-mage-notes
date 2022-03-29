@@ -9,6 +9,8 @@ Tags: [ character/player-character ]
 
 My player character, a Gnome Wizard.
 
+As the story has progressed Serge has found himself to worry deeply about leaving evidence of his battles, and witnesses of his crimes. He therefore now has a reputation within the party for disposing of corpses.
+
 ## Relationships
 
 - [[Leon Margaster]] - student

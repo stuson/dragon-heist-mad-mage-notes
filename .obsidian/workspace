@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Notes/2022-02-22 - Session 3.md",
+            "file": "Adventure Notes/2022-03-15 - Session 6.md",
             "mode": "source",
             "backlinks": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 290
   },
   "right": {
     "id": "543afc12a16978a7",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Notes/2022-02-22 - Session 3.md",
+                "file": "Adventure Notes/2022-03-15 - Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventure Notes/2022-02-22 - Session 3.md",
+                "file": "Adventure Notes/2022-03-15 - Session 6.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventure Notes/2022-02-22 - Session 3.md"
+                "file": "Adventure Notes/2022-03-15 - Session 6.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
+    "Adventure Notes/2022-03-15 - Session 6.md",
+    "Waterdeep/The Stone of Golorr.md",
+    "Adventure Notes/2022-02-15 - Session 2.md",
     "Adventure Notes/2022-02-22 - Session 3.md",
-    "_resources/Pasted image 20220222212616.png",
-    "_resources/krenz_map.png",
-    "_resources/gazer_corpse.png",
-    "Character Notes/Player Characters/Whitelaw.md",
-    "Character Notes/Non-Player Characters/Hyustus Staget.md",
-    "Character Notes/Non-Player Characters/Floon Blagmaar.md",
-    "Character Notes/Non-Player Characters/Dagult Neverember.md",
-    "Character Notes/Non-Player Characters/Krenz.md",
-    "Adventure Notes/2022-02-15 - Session 2.md"
+    "Adventure Notes/2022-03-08 - Session 5.md",
+    "Adventure Notes/2022-03-01 - Session 4.md",
+    "Waterdeep/The Spouting Fish.md",
+    "Index/Sessions.md",
+    "Character Notes/Player Characters/Nanny.md",
+    "Character Notes/Player Characters/Prissencolen Essen Alcuisol.md"
   ]
 }

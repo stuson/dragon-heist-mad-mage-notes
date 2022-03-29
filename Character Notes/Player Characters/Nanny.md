@@ -9,6 +9,8 @@ Tags: [ character/player-character ]
 
 Josh's character, a Fairy Bard.
 
+She has a hybrid Irish / Scottish accent, and smells faintly of cookies at all times.
+
 ## Relationships
 
 - [[Leon Margaster]] - recipient of nannying
