@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Adventure Notes/2022-06-14 - Session 12.md",
+            "file": "Adventure Notes/2022-07-05 - Session 13.md",
             "mode": "source",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventure Notes/2022-06-14 - Session 12.md",
+                "file": "Adventure Notes/2022-07-05 - Session 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventure Notes/2022-06-14 - Session 12.md",
+                "file": "Adventure Notes/2022-07-05 - Session 13.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventure Notes/2022-06-14 - Session 12.md"
+                "file": "Adventure Notes/2022-07-05 - Session 13.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "73394bc6cb38d9c7",
   "lastOpenFiles": [
-    "Adventure Notes/2022-06-14 - Session 12.md",
-    "Adventure Notes/2022-06-07 - Session 11.md",
-    "Adventure Notes/2022-05-31 - Session 10.md",
-    "Adventure Notes/2022-05-24 - Session 9.md",
-    "Waterdeep/The Bent Nail.md",
-    "Adventure Notes/2022-03-08 - Session 5.md",
-    "Adventure Notes/2022-05-17 - Session 8.md",
+    "Adventure Notes/2022-07-05 - Session 13.md",
     "Adventure Notes/2022-03-15 - Session 6.md",
-    "Character Notes/Non-Player Characters/Floon Blagmaar.md",
-    "Waterdeep/The Stone of Golorr.md"
+    "Adventure Notes/2022-03-08 - Session 5.md",
+    "Adventure Notes/2022-03-01 - Session 4.md",
+    "Adventure Notes/2022-02-22 - Session 3.md",
+    "Adventure Notes/2022-02-08 - Session 1.md",
+    "Adventure Notes/2022-02-15 - Session 2.md",
+    "Adventure Notes/2022-06-07 - Session 11.md",
+    "Adventure Notes/2022-06-14 - Session 12.md",
+    "Adventure Notes/2022-05-31 - Session 10.md"
   ]
 }
