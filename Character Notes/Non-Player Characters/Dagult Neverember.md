@@ -7,7 +7,7 @@ Tags: [ character/npc ]
 
 The previous [[Waterdeep#The Politics of Waterdeep|Open Lord of Waterdeep]] and father of [[Renaer Neverember]].
 
-- Emebzzled a large amount of money
+- Emebezzled a large amount of money
 - [[The Zhentarim]] believe [[The Stone of Golorr]] is the key to finding that treasure
 
 ## Relationships
